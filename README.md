@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Maheen</h1>
-<h3 align="center"><br>Full-Stack Developer | Passionate about Code, Clean UI, and Data Science<br>
-  Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
+
    
 
   <p align="center">
   <img src="https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg?raw=true" alt="Banner" width="100%" />
-</p>
+  </p>
+  
+<h3 align="center"><br>Full-Stack Developer | Passionate about Code, Clean UI, and Data Science<br>
+  Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
 
+<h2 align="center">🚀 Turning Ideas Into Interactive Experiences</h2>
+<p align="center">💡 Constantly exploring new tech horizons</p>
+<p align="center">💻 Building full-stack apps with MERN</p>
+<p align="center">🧠 Curious about AI, Machine Learning & Data-Driven Systems</p>
 
 
 - 📫 How to reach me **maheenrazzaq989@gmail.com**
