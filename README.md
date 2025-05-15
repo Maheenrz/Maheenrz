@@ -5,6 +5,10 @@
   <p align="center">
   <img src="https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg?raw=true" alt="Banner" width="100%" />
   </p>
+  <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maheenrz.Maheenrz" alt="visitor badge"/>
+</p>
+
   
 <h3 align="center"><br>Full-Stack Developer | Passionate about Code, Clean UI, and Data Science<br>
   Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
