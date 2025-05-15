@@ -3,9 +3,9 @@
   Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
    <img src="https://your-image-url-here" alt="Banner" width="100%" />
 
-<p align="left"> <img src="https://github.com/Maheenrz/Maheenrz/blob/main/code.jpeg&style=flat" alt="maheenrz" /> </p>
+<p align="left"> <img src="https://github.com/Maheenrz/Maheenrz/blob/main/code.jpeg" alt="maheenrz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheenrz" alt="maheenrz" /></a> </p>
+
 
 - 📫 How to reach me **maheenrazzaq989@gmail.com**
 
