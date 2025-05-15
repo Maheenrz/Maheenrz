@@ -3,7 +3,10 @@
   Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
    
 
-  <img src="https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg"alt="Banner" width="100%" />
+  <p align="center">
+  <img src="https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg?raw=true" alt="Banner" width="100%" />
+</p>
+
 
 
 - 📫 How to reach me **maheenrazzaq989@gmail.com**
