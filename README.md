@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maheen</h1>
 <h3 align="center"><br>Full-Stack Developer | Passionate about Code, Clean UI, and Data Science<br>
   Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
-   <img src="[https://your-image-url-here](https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg)" alt="Banner" width="100%" />
+   <img src="https://your-image-url-here](https://github.com/Maheenrz/Maheenrz/blob/main/laptop.jpg" alt="Banner" width="100%" />
 
 
 
