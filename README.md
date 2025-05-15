@@ -9,7 +9,7 @@
 <h3 align="center"><br>Full-Stack Developer | Passionate about Code, Clean UI, and Data Science<br>
   Enthusiastic about AI, Machine Learning, and building intelligent systems 🤖</h3>
 
-<h2 align="center">🚀 Turning Ideas Into Interactive Experiences</h2>
+<p align="center">🚀 Turning Ideas Into Interactive Experiences</p>
 <p align="center">💡 Constantly exploring new tech horizons</p>
 <p align="center">💻 Building full-stack apps with MERN</p>
 <p align="center">🧠 Curious about AI, Machine Learning & Data-Driven Systems</p>
