@@ -25,7 +25,7 @@
 <p align="left">
 </p>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
