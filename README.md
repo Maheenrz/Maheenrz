@@ -128,9 +128,6 @@ me.say_hi()
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Maheenrz&style=for-the-badge&color=9D4EDD" alt="Profile views" />
-</div>
 
 
 <div align="center">
@@ -138,5 +135,5 @@ me.say_hi()
 </div>
 
 <div align="center">
-  **"Code is like humor. When you have to explain it, it's bad." - Cory House** ☕💻  
+  **"Code is like humor. When you have to explain it, it's bad." - Cory House** ☕💻
 </div>
