@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Maheen 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="800" height="600"/>
 </div>
 
 <div align="center">
@@ -133,18 +133,10 @@ me.say_hi()
 </div>
 
 
-<p align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Maheenrz.Maheenrz&style=for-the-badge&color=9D4EDD" alt="visitor badge"/>
-</p>
-
+</div>
 
 <div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad." - Cory House** ☕💻
-  
+  **"Code is like humor. When you have to explain it, it's bad." - Cory House** ☕💻  
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheenrz&show_icons=true&locale=en&layout=compact" alt="maheenrz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheenrz&show_icons=true&locale=en" alt="maheenrz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheenrz&" alt="maheenrz" /></p>
