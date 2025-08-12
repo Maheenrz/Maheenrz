@@ -72,13 +72,8 @@ me.say_hi()
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-## 🎯 Currently Learning
-
 <img align="left" alt="Coffee" width="100" src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif"/>
 
-- 🧠 **Machine Learning Algorithms** - Following Andrew Ng's ML courses and exploring supervised learning
-- 🔬 **Deep Learning** - Currently taking Andrew Ng's Deep Learning specialization
-- ☁️ **Cloud Technologies** - Learning AWS basics for cloud deployment
 
 <br clear="left"/>
 
